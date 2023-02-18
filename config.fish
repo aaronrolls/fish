@@ -17,8 +17,8 @@ and not set -q TMUX
     end
 end
 
-alias sshaaronrolls="ssh -i ~/@database/Sensitive/aaronrolls_key.pem ec2-user@54.153.152.56"
-alias sshthoroughbread2server="ssh -i ~/@database/Sensitive/thoroughbread2server_key.pem ec2-user@13.210.148.109"
-alias sshthoroughbread="ssh -i ~/@database/Sensitive/thoroughbread_key.pem bitnami@3.24.170.97"
-alias qview="qlmanage -p"
-alias ls="exa"
+#alias sshaaronrolls="ssh -i ~/@database/Sensitive/aaronrolls_key.pem ec2-user@54.153.152.56"
+#alias sshthoroughbread2server="ssh -i ~/@database/Sensitive/thoroughbread2server_key.pem ec2-user@13.210.148.109"
+#alias sshthoroughbread="ssh -i ~/@database/Sensitive/thoroughbread_key.pem bitnami@3.24.170.97"
+#alias qview="qlmanage -p"
+#alias ls="exa"
